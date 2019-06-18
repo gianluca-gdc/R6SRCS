@@ -125,10 +125,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="MouseClick.cpp" />
     <ClCompile Include="MouseMovement.cpp" />
     <ClCompile Include="Sounds.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="MouseClick.h" />
     <ClInclude Include="MouseMovement.h" />
     <ClInclude Include="resource3.h" />
     <ClInclude Include="Sounds.h" />

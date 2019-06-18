@@ -1,5 +1,5 @@
 #pragma once
-#define DELTA_X 0
+#define DELTA_X 10
 #define DELTA_Y 20
 #define DELAY 15
 //X=10
